@@ -1,0 +1,7 @@
+# commons
+.env
+
+# macOS
+.DS_Store
+
+.terraform/providers/*
